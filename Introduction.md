@@ -1,0 +1,5 @@
+- 👋 Hello, I’m Sina!
+- 👀 I’m interested in coding and engineering
+- 🌱 I’m currently learning Java script
+- 💞️ I’m looking to collaborate on game creations and web development
+- 📫 How to reach me : Discord -will update later
